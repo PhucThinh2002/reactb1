@@ -3,7 +3,7 @@ import BaiTapThucHanhLayout from './BaiTapThucHanhLayout/BaiTapThucHanhLayout'
 
 const App = () => {
   return (
-    <div style={{marginBottom:'500px'}}>
+    <div>
       <BaiTapThucHanhLayout/>
     </div>
   )
