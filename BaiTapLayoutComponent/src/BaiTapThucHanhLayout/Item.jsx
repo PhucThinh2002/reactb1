@@ -10,7 +10,9 @@ const Item = () => {
             <div className="card-body">
               <h5 className="card-title">Card title</h5>
               <p className="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-              <button className="btn btn-primary">Find Out More!</button>
+              <div className='bg-light'>
+              <button className="btn btn-primary my-3">Find Out More!</button>
+              </div>
             </div>
           </div>
         </div>
@@ -20,7 +22,9 @@ const Item = () => {
             <div className="card-body">
               <h5 className="card-title">Card title</h5>
               <p className="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-              <button className="btn btn-primary">Find Out More!</button>
+              <div className='bg-light'>
+              <button className="btn btn-primary my-3">Find Out More!</button>
+              </div>
             </div>
           </div>
         </div>
@@ -30,7 +34,9 @@ const Item = () => {
             <div className="card-body">
               <h5 className="card-title">Card title</h5>
               <p className="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-              <button className="btn btn-primary">Find Out More!</button>
+              <div className='bg-light'>
+              <button className="btn btn-primary my-3">Find Out More!</button>
+              </div>
             </div>
           </div>
         </div>
@@ -40,7 +46,9 @@ const Item = () => {
             <div className="card-body">
               <h5 className="card-title">Card title</h5>
               <p className="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-              <button className="btn btn-primary">Find Out More!</button>
+              <div className='bg-light'>
+              <button className="btn btn-primary my-3">Find Out More!</button>
+              </div>
             </div>
           </div>
         </div>
